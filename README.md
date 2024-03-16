@@ -1,6 +1,9 @@
 # Online Retail EDA+RFM Analysis
 In this study, EDA(Exploratory Data Analysis) and then RFM(Recency, Frequency, Monetary Value) analysis is performed using the Online Retail dataset.
 
+![image](https://github.com/hhuseyincosgun/Online-Retail-EDA-RFM-Analysis/assets/21257660/32f0bc99-89e8-4bbe-9ccd-872a5dff5e0a)
+
+
 ## <b><span style='color:#F1C40F'> About |</span> Online Retail - II Dataset</b>
  
 ### <b><span style='color:#F1C40F'>Overview</span></b>
